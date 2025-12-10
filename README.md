@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="de">
 <head>
     <meta charset="UTF-8">
@@ -6,8 +6,8 @@
     <title>Wanzen Sekte</title>
 
     <!-- SEO -->
-    <meta name="description" content="Die Wanzen-Sekte – Eine der einflussreichsten und gefährlichsten Familien im GTA Roleplay. Ein tiefgehender Blick hinter ihre Strukturen, Macht und Ziele.">
-    <meta name="keywords" content="Wanzen Sekte, GTA RP, Sekte, Untergrund Familie, Roleplay, Geheimorganisation">
+    <meta name="description" content="Die Wanzen-Sekte – Eine der einflussreichsten und gefährlichsten Familien im gesamten Land. Ein tiefgehender Blick hinter ihre Strukturen, Macht und Ziele.">
+    <meta name="keywords" content="Wanzen Sekte, Sekte, Untergrund Familie, Geheimorganisation">
 
     <!-- Dark Style -->
     <style>
@@ -78,7 +78,7 @@
 
     <h2>Die Wanzen-Sekte – Ein Blick hinter die Schatten einer der einflussreichsten Familien im Staat</h2>
 
-    <p>Die Wanzen-Sekte zählt im GTA-Roleplay zu den geheimnisvollsten und zugleich gefährlichsten Familien, die im Untergrund des Staates agieren. Ihr Name fällt in zahlreichen polizeilichen Ermittlungen, in vertraulichen Regierungsdokumenten und in den Geschichten der Zivilbevölkerung, die von ihrer Macht und ihrem Netzwerk berichten. Hinter dem zunächst unscheinbaren Namen verbirgt sich eine Organisation, die tief in die Strukturen des Staates eingewoben ist – und genau dort entfaltet sie ihre wahre Stärke.</p>
+    <p>Die Wanzen-Sekte zählt im gesamten Land zu den geheimnisvollsten und zugleich gefährlichsten Familien, die im Untergrund des Staates agieren. Ihr Name fällt in zahlreichen polizeilichen Ermittlungen, in vertraulichen Regierungsdokumenten und in den Geschichten der Zivilbevölkerung, die von ihrer Macht und ihrem Netzwerk berichten. Hinter dem zunächst unscheinbaren Namen verbirgt sich eine Organisation, die tief in die Strukturen des Staates eingewoben ist – und genau dort entfaltet sie ihre wahre Stärke.</p>
 
     <h2>Struktur und Einfluss im Staat</h2>
 
@@ -129,12 +129,12 @@
 
     <h2>Die Gefahr für den Staat</h2>
 
-    <p>Durch ihre Durchdringung staatlicher Behörden zählt die Wanzen-Sekte zu den gefährlichsten Organisationen im gesamten RP-Universum. Sie ist kein einfacher Straßenclan, sondern eine Machtstruktur, die von innen heraus agiert. Mitglieder im Staatsdienst können Ermittlungen sabotieren, während Gang-Verbündete den offenen Kampf führen. So entsteht ein Netzwerk, das sich gleichzeitig im Schatten und im Licht bewegt – schwer zu greifen, schwer zu zerstören und immer bereit, seinen Einfluss weiter auszubauen.</p>
+    <p>Durch ihre Durchdringung staatlicher Behörden zählt die Wanzen-Sekte zu den gefährlichsten Organisationen im gesamten Land. Sie ist kein einfacher Straßenclan, sondern eine Machtstruktur, die von innen heraus agiert. Mitglieder im Staatsdienst können Ermittlungen sabotieren, während Gang-Verbündete den offenen Kampf führen. So entsteht ein Netzwerk, das sich gleichzeitig im Schatten und im Licht bewegt – schwer zu greifen, schwer zu zerstören und immer bereit, seinen Einfluss weiter auszubauen.</p>
 
 </main>
 
 <footer>
-    © 2025 Wanzen Sekte – GTA RP Universe
+    © 2025 Wanzen Sekte – H.vW
 </footer>
 
 </body>
